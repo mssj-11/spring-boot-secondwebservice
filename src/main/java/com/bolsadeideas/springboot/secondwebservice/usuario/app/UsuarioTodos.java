@@ -5,6 +5,7 @@ import java.util.Objects;
 
 public class UsuarioTodos {
 	
+	
 	//	Atributos
 	private String nombre;
 	
@@ -16,7 +17,6 @@ public class UsuarioTodos {
 
 	//	Constructor
 	public UsuarioTodos(String nombre) {
-		super();
 		this.nombre = nombre;
 	}
 	
